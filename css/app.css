@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+}
+
+#kralj{
+    padding-left: 5cm;
+    padding-right: 5cm;
+}
+
+#kraljica{
+    padding-left: 5cm;
+    padding-right: 5cm;
+}
+
+body{
+    background-color: rgb(255, 184, 184);
+    text-align: center;
+}
+
+*{
+    font-family: fantasy;
+}
+
+h5{
+    font-family: fantasy;
+}
